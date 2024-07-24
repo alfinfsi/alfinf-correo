@@ -40,6 +40,8 @@ class MailThread(models.AbstractModel):
                     message, message_dict,
                     ('res.partner', parent_id.id, custom_values, user_id.id, None),
                     raise_exception=False)
+
+
                 if route:
                     return [route]
 

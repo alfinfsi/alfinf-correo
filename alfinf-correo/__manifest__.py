@@ -3,14 +3,14 @@
 
 {
     "name": "Alfinf Mail Manual Routing",
-    "summary": "Alfinf Mail Manual Routing",
     "version": "16.0.1.0.0",
-    "development_status": "Beta",
-    "license": "AGPL-3",
-    "author": "Alfinf",
-    "website": "https://github.com/alfinfsi/",
     "category": "Discuss",
+    "author": "Xtendoo",
+    "website": "https://xtendoo.es",
+    "license": "Other proprietary",
+    "application": True,
     "installable": True,
+    "auto_install": False,
     "depends": [
         "mail"
     ],
