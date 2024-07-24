@@ -10,14 +10,14 @@
     "author": "Alfinf",
     "website": "https://github.com/alfinfsi/",
     "category": "Discuss",
+    "installable": True,
     "depends": [
         "mail"
     ],
-    "data": [
-        "views/survey_survey_view.xml"
-    ],
+    "assets": {},
+    "external_dependencies": {},
+    "summary": "The tool to make sure you do not loose any incoming messages",
     "images": [
         "static/description/main.png"
     ],
-    "installable": True,
 }
